@@ -24,4 +24,4 @@ if __name__ == "__main__":
         except Exception as e:
             print(f'Failed to load extension {extension}: {e}')
 
-bot.run('NzEzMzcyMjAwNDEzMDM2NTc0.XsqOgg.7ALOgfndOyMk7e025cNOePtl8PM')
+bot.run('NzEzMzcyMjAwNDEzMDM2NTc0.XsqQzQ.TG84G-UCJmtzyh4t9KCZVBTX6bo')
